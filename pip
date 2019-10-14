@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec find-venv-executable.sh pip "$@"
+
